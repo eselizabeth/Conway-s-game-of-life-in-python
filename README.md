@@ -12,7 +12,7 @@ The game only has 3 rules:
 * Pygame 
 
 ## Simulation of a pattern known as 'Acorn'
-![image1](https://i.imgur.com/peJMgUo.gif)
+![image1](https://i.imgur.com/CcG9K18.gif)
 ## Running the code
 * Clone GitHub repository
 * Install Pygame: ``` pip install pygame ```
