@@ -11,7 +11,7 @@ The game only has 3 rules:
 * Python 3
 * Pygame 
 
-## In-game images
+## Simulation of a pattern known as 'Acorn'
 ![image1](https://i.imgur.com/peJMgUo.gif)
 ## Running the code
 * Clone GitHub repository
